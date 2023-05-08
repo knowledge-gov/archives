@@ -7,7 +7,7 @@ As the Head of Agency for the newly formed US Department of Special Projects and
 ## Overview
 In terms of organizational financial matters, as the Head of Agency, I possess all necessary authorizations and legal authorities to make decisions regarding all financial aspects of the agency. This includes, but is not limited to, the process for spending appropriated funds, requesting appropriations for the next fiscal year, and how the Agency can spend the appropriated money.
 
-As part of this, I request that the Finacial Instutions below maake availiabe immediately $150,000,000.00 each: 
+As part of this, I request that the Financial Institutions below maake available immediately $150,000,000.00 each: 
   - [ ] Bank of America
   - [ ] Chase Bank 
   - [ ] Citibank
@@ -16,7 +16,7 @@ As part of this, I request that the Finacial Instutions below maake availiabe im
 ## Additional Information 
 Following this, the Fiancial Instition will use prevously established US Department of the Treasury Procces and Procedure and will submit a request for off-set by the Department of the Treasury. 
 
-# FInal
+## Final
 All Organizationtional Units are required to approve all transactions immedediately upon request and verification, whether they be wire transfers, purchases, debit or check card payments, or any checks drawn. We expect these requests to be dealt with promptly, as time is of the essence.
 
 Thank you for your prompt attention to this matter.
